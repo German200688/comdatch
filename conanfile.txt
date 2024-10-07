@@ -1,0 +1,8 @@
+[requires]
+serial/1.2.1
+poco/1.9.3
+librdkafka/2.4.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
